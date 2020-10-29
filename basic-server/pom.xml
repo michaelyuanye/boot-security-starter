@@ -35,9 +35,10 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+
 		<dependency>
-			<groupId>com.zimug</groupId>
-			<artifactId>zimug-commons-spring-boot-starter</artifactId>
+			<groupId>com.zimug.courses.security</groupId>
+			<artifactId>commons-spring-boot-starter</artifactId>
 			<version>1.0</version>
 		</dependency>
 
